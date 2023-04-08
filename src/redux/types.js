@@ -1,0 +1,4 @@
+export const types = {
+    POST_USER: 'POST_USER',
+    TOGGLE_NOTIFICATION: 'TOGGLE_NOTIFICATION'
+}
